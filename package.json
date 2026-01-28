@@ -47,6 +47,7 @@
     "events": "^3.3.0",
     "gtts": "^0.2.1",
     "sqlite3": "^5.1.7",
+    "better-sqlite3",
     "human-readable": "^0.2.1",
     "jimp": "latest",
     "libphonenumber-js": "^1.11.18",
